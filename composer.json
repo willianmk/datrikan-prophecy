@@ -1,0 +1,17 @@
+{
+    "name": "dafiti/datrikan-prophecy",
+    "authors": [
+        {
+            "name": "Willian Mitsuo Kumatsu",
+            "email": "willian.kumatsu@dafiti.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^5.6"
+    }
+}
