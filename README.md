@@ -42,3 +42,10 @@ Test Mocks com Prophecy
 
 * [Teste com PHPUnit 3.x e 4.5+ Mock](tests/unit/HtmlConverterMockTest.php)
 * [Teste com Prophecy](tests/unit/HtmlConverterProphecyTest.php)
+
+# Referências #
+
+* [Integração com o PHPUnit 3.x (DEPRECIADO há mais de 1 ano)](https://github.com/phpspec/prophecy-phpunit)
+* [Github do PHPSpec](https://github.com/phpspec/phpspec)
+* [Github do Prophecy](https://github.com/phpspec/prophecy)
+* [Github do PHPUnit](https://github.com/sebastianbergmann/phpunit)
